@@ -1,3 +1,4 @@
+# Aufgabe 2: Information Retrieval Decision Support
 ## Live Test der Search Machine
 
 [MedInfo](https://chbo70.github.io/medical-search-engine/#gsc.tab=0&gsc.sort=)
@@ -131,6 +132,16 @@ So wie in der letzten Aufgabe eignet sich eine API die man an alle möglichen Sc
 
 ### Eigene Überlegungen
 Man könnte die ersten 3 Ergebnisse statt einer Binären Klassifizierung mittels einem Gradienten von 0-2 einstufen, um eine genauere Aussage zu bekommen. Zusätzlich könnte man dieses auf zB. 10 Anfragen erweitern und herausfinden ob die besten 3 Antworten wirklich oben stehen. Dazu würde noch dazukommen manuell zu überprüfen ob die Suchmaschine auch wirklich alle wichtigen Dokumente findet oder manche durch andere Formulierungen übersieht. Daher sollte auch auf Vokabular & Ontologien geprüft werden, da diese im medizinischen Kontext ein deutlich akkurateres Ergebnis liefern. Die Qualität ist sehr wichtig und muss mit bestehenden Leitlinien oder Studien abgedeckt sein. Da spielt das Schadenspotential so wie die Verständlichkeit, Stichwort Personengruppen, auch eine große Rolle. Um komplett sicherzugehen wie genau die Ergebnisse der Suchmaschine sind braucht es medizinisches Fachpersonal zum Prüfen von komplexen Anfragen.
+
+## Arbeitsaufteilung
+- Niklas Kasper, 12122377:
+	- Programmable Search Engine online erstellt
+ 	- Theoretische Fragen beantwortet
+  	- Evaluierung der Testfragen gemeinsam  
+- Boon-Chung Chi, 12118081:
+	- Design-Mockup
+ 	- Prototyp mit SearchEngine von Google und auf Github bereitgestellt
+  	- Evaluierung der Testfragen gemeinsam  	
 
 
 
