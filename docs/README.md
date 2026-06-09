@@ -1,7 +1,7 @@
 # Aufgabe 2: Information Retrieval Decision Support
 
 ## Design Mockup 
-<img width="2539" height="1237" alt="image" src="https://github.com/user-attachments/assets/0da2bb28-9900-4c9d-9d74-695a052331ac" />
+![Start Page](images/design-mockup-uebung-2.png)
 
 ## Live Test der Search Machine
 
