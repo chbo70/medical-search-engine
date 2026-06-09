@@ -1,0 +1,142 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 4 0 R >> >> /MediaBox [0 0 612 792] /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 3500 >>
+stream
+BT
+/F1 24 Tf
+50 700 Td
+(Aufgabe 2: Information Retrieval Decision Support) Tj
+ET
+BT
+/F1 16 Tf
+50 670 Td
+(Live Test der Search Machine) Tj
+ET
+BT
+/F1 12 Tf
+50 650 Td
+(MedInfo: https://chbo70.github.io/medical-search-engine/) Tj
+ET
+BT
+/F1 16 Tf
+50 620 Td
+(Uebersicht der Datenquellen) Tj
+ET
+BT
+/F1 12 Tf
+50 600 Td
+(Da wir die Suchmaschine fuer Patientinnen, bzw. Personen mit nicht medizinischem) Tj
+50 585 Td
+(Fachwissen, ausgelegt haben, beinhalten die Quellen dementsprechend leicht) Tj
+50 570 Td
+(verstaendliche Informationen.) Tj
+ET
+BT
+/F1 16 Tf
+50 540 Td
+(Generelle Ueberlegung basierend auf Web/Literatur-Recherche) Tj
+ET
+BT
+/F1 14 Tf
+50 515 Td
+(Was macht die ideale medizinische Suchmaschine aus?) Tj
+ET
+BT
+/F1 12 Tf
+50 495 Td
+(Die ideale Suchmaschine fungiert wie ein digitaler, kompetenter Assistenzarzt.) Tj
+50 480 Td
+(Die Datenbasis sollte sich ausschliesslich aus verifizierten Quellen zusammensetzen.) Tj
+ET
+BT
+/F1 14 Tf
+50 450 Td
+(Wie kommen User schnell zu hochqualitativen Antworten?) Tj
+ET
+BT
+/F1 12 Tf
+50 430 Td
+(Um ein besseres Ergebnis zu ermoeglichen, sollte die Suchmaschine mehr als nur) Tj
+50 415 Td
+(ein einfaches auflisten von Links enthalten.) Tj
+ET
+BT
+/F1 14 Tf
+50 385 Td
+(Evaluierung) Tj
+ET
+BT
+/F1 12 Tf
+50 365 Td
+(5 Testfragen wurden evaluiert mit den folgenden Kriterien:) Tj
+50 350 Td
+(- Authority) Tj
+50 335 Td
+(- Complementarity) Tj
+50 320 Td
+(- Confidentiality) Tj
+50 305 Td
+(- Attribution) Tj
+50 290 Td
+(- Justifiability) Tj
+50 275 Td
+(- Transparency) Tj
+50 260 Td
+(- Financial Disclosure) Tj
+50 245 Td
+(- Advertisement Policy) Tj
+ET
+BT
+/F1 14 Tf
+50 215 Td
+(Arbeitsaufteilung) Tj
+ET
+BT
+/F1 12 Tf
+50 195 Td
+(Niklas Kasper (12122377):) Tj
+50 180 Td
+(- Programmable Search Engine online erstellt) Tj
+50 165 Td
+(- Theoretische Fragen beantwortet) Tj
+50 150 Td
+(- Evaluierung der Testfragen gemeinsam) Tj
+ET
+BT
+/F1 12 Tf
+50 125 Td
+(Boon-Chung Chi (12118081):) Tj
+50 110 Td
+(- Design-Mockup) Tj
+50 95 Td
+(- Prototyp mit SearchEngine von Google und auf Github bereitgestellt) Tj
+50 80 Td
+(- Evaluierung der Testfragen gemeinsam) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000214 00000 n 
+0000000287 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+3836
+%%EOF
