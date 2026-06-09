@@ -1,4 +1,8 @@
 # Aufgabe 2: Information Retrieval Decision Support
+
+## Design Mockup 
+<img width="2539" height="1237" alt="image" src="https://github.com/user-attachments/assets/0da2bb28-9900-4c9d-9d74-695a052331ac" />
+
 ## Live Test der Search Machine
 
 [MedInfo](https://chbo70.github.io/medical-search-engine/#gsc.tab=0&gsc.sort=)
@@ -142,6 +146,7 @@ Man könnte die ersten 3 Ergebnisse statt einer Binären Klassifizierung mittels
 	- Design-Mockup
  	- Prototyp mit SearchEngine von Google und auf Github bereitgestellt
   	- Evaluierung der Testfragen gemeinsam  	
+
 
 
 
