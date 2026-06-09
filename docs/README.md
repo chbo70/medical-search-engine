@@ -1,3 +1,7 @@
+## Live Test der Search Machine
+
+[MedInfo](https://chbo70.github.io/medical-search-engine/#gsc.tab=0&gsc.sort=)
+
 ## Übersicht der Datenquellen
 
 Da wir die Suchmaschine für PatientInnen, bzw. Personen mit nicht medizinischem Fachwissen, ausgelegt haben, beinhalten die Quellen dementsprechend leicht verständliche Informationen. Die meisten Websites die hinzugefügt wurden beinhalten klassische Reiter wie Krankheiten, Symptome, Diagnose, etc. wo mit möglichst einfachen Termen eine Thema erklärt wird. Wir haben zwei Websites, afgis[^1] und einen Meduni-Wien Blog[^2] gefunden, die einen Überblick über Websites mit medizinisches Wissen geben. Diese haben viele Websites aufgelistet und evaluiert. Wir sind dann alle durchgegangen und haben uns die mit den meisten Informationen herausgeschrieben und in die Google Programmable Search Engine eingetragen.
